@@ -1,0 +1,36 @@
+{
+  "name": "greenfinderapi",
+  "version": "1.0.0",
+  "description": "GreenFinder API",
+  "main": "src",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTGo-Tech/GreenFinderAPI.git"
+  },
+  "keywords": [
+    "API",
+    "GrennFinder"
+  ],
+  "author": "Emanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTGo-Tech/GreenFinderAPI/issues"
+  },
+  "homepage": "https://github.com/iTGo-Tech/GreenFinderAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "esm": "^3.2.25",
+    "express": "^4.19.1",
+    "express-ejs-layouts": "^2.5.1",
+    "html": "^1.0.0",
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^2.3.3",
+    "nodemon": "^3.1.0"
+  }
+}
