@@ -1,7 +1,7 @@
 import express from "express";
 import { port } from "./server.js";
 import { updatesRoutes, updatesRoutes2 } from "../routes/updates.js";
-import MainLayouts from "express-ejs-layouts";
+import MainLayouts from "express-ejs-layouts"
 
 const app = express();
 

@@ -10,7 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iTGo-Tech/GreenFinderAPI.git"
   },
   "keywords": [
     "API",
@@ -19,9 +18,7 @@
   "author": "Emanuel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iTGo-Tech/GreenFinderAPI/issues"
   },
-  "homepage": "https://github.com/iTGo-Tech/GreenFinderAPI#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "ejs": "^3.1.9",
